@@ -20,15 +20,15 @@ AI & Others:   Whisper • Tortoise TTS • RAG (Retrieval Augmented Generation)
 ---
 
 ## 🚀 Featured Projects
-# ⚡ DomiChat
+### ⚡ DomiChat
 🇩🇴 An AI assistant for Dominicans. With local dialects, voice accents, and Portal DOM payments.
 Tech: Next.js • TypeScript • Tailwind • Stripe/Portal • Shadcn UI • Whisper
 
-# 📊 Elementix
+### 📊 Elementix
 Project Management tool for agency owners. Visual dashboards, task workflows, team organization.
 Tech: Next.js • Bun • Prisma • MySQL • UploadThing • shadcn/ui
 
-# 🎵 Stave (Coming Soon)
+### 🎵 Stave (Coming Soon)
 A platform for musicians to collaborate, chat, record and share music together.
 Tech: React Native • WebView • MediaRecorder • Group Chat System • Access control system
 
