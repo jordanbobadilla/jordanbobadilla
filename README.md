@@ -15,8 +15,7 @@
 Languages:     TypeScript • JavaScript • SQL • Java  
 Frameworks:    Next.js • React Native • Tailwind CSS • Node.js • Prisma  
 Infra & Tools: Vercel • PostgreSQL • MySQL • Stripe • Portal DOM • Git • GitHub Actions  
-AI & Others:   Whisper • Tortoise TTS • RAG (Retrieval Augmented Generation)  
+AI & Others:   Whisper • Tortoise TTS • RAG (Retrieval Augmented Generation)
 
+![image](https://github.com/user-attachments/assets/71eb4991-9d58-4798-a12b-23a2a8e00f52)
 
-___
-![Equalizer](https://i.pinimg.com/originals/05/4a/a3/054aa3421c22e0c9e04ada3082066a8d.gif)
